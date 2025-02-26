@@ -1,0 +1,7 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MutexPrimeNumbers\bin\Debug\MutexPrimeNumbers.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MutexPrimeNumbers\bin\Debug\MutexPrimeNumbers.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MutexPrimeNumbers\bin\Debug\MutexPrimeNumbers.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MutexPrimeNumbers\obj\Debug\MutexPrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MutexPrimeNumbers\obj\Debug\MutexPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MutexPrimeNumbers\obj\Debug\MutexPrimeNumbers.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MutexPrimeNumbers\obj\Debug\MutexPrimeNumbers.pdb

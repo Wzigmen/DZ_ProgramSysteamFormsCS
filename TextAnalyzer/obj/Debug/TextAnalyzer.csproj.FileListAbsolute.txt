@@ -1,0 +1,9 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\obj\Debug\TextAnalyzer.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\TextAnalyzer\obj\Debug\TextAnalyzer.pdb

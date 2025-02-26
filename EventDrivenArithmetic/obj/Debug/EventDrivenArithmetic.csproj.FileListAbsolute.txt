@@ -1,0 +1,7 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\EventDrivenArithmetic\bin\Debug\EventDrivenArithmetic.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\EventDrivenArithmetic\bin\Debug\EventDrivenArithmetic.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\EventDrivenArithmetic\bin\Debug\EventDrivenArithmetic.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\EventDrivenArithmetic\obj\Debug\EventDrivenArithmetic.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\EventDrivenArithmetic\obj\Debug\EventDrivenArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\EventDrivenArithmetic\obj\Debug\EventDrivenArithmetic.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\EventDrivenArithmetic\obj\Debug\EventDrivenArithmetic.pdb

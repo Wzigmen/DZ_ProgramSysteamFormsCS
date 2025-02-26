@@ -1,0 +1,9 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\obj\Debug\HorseRace.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\obj\Debug\HorseRace.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\HorseRace\obj\Debug\HorseRace.pdb

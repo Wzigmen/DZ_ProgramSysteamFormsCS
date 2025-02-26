@@ -1,0 +1,9 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\bin\Debug\MessageBoxApp.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\bin\Debug\MessageBoxApp.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\bin\Debug\MessageBoxApp.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\obj\Debug\MessageBoxApp.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\obj\Debug\MessageBoxApp.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\obj\Debug\MessageBoxApp.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\obj\Debug\MessageBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\obj\Debug\MessageBoxApp.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\MessageBoxApp\obj\Debug\MessageBoxApp.pdb

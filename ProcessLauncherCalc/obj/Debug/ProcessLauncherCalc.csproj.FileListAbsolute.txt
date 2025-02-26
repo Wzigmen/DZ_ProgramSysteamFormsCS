@@ -1,0 +1,7 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncherCalc\bin\Debug\ProcessLauncherCalc.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncherCalc\bin\Debug\ProcessLauncherCalc.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncherCalc\bin\Debug\ProcessLauncherCalc.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncherCalc\obj\Debug\ProcessLauncherCalc.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncherCalc\obj\Debug\ProcessLauncherCalc.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncherCalc\obj\Debug\ProcessLauncherCalc.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncherCalc\obj\Debug\ProcessLauncherCalc.pdb

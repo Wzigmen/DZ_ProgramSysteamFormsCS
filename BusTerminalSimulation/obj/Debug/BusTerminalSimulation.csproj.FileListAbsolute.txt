@@ -1,0 +1,7 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BusTerminalSimulation\bin\Debug\BusTerminalSimulation.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BusTerminalSimulation\bin\Debug\BusTerminalSimulation.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BusTerminalSimulation\bin\Debug\BusTerminalSimulation.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BusTerminalSimulation\obj\Debug\BusTerminalSimulation.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BusTerminalSimulation\obj\Debug\BusTerminalSimulation.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BusTerminalSimulation\obj\Debug\BusTerminalSimulation.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BusTerminalSimulation\obj\Debug\BusTerminalSimulation.pdb

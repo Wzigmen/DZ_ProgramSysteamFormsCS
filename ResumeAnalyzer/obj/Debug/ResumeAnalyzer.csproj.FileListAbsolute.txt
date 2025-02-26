@@ -1,0 +1,9 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\bin\Debug\ResumeAnalyzer.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\bin\Debug\ResumeAnalyzer.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\bin\Debug\ResumeAnalyzer.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\obj\Debug\ResumeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\obj\Debug\ResumeAnalyzer.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\obj\Debug\ResumeAnalyzer.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\obj\Debug\ResumeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\obj\Debug\ResumeAnalyzer.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ResumeAnalyzer\obj\Debug\ResumeAnalyzer.pdb

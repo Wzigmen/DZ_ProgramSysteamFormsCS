@@ -1,0 +1,7 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\CalculatorApp1\bin\Debug\CalculatorApp1.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\CalculatorApp1\bin\Debug\CalculatorApp1.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\CalculatorApp1\bin\Debug\CalculatorApp1.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\CalculatorApp1\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\CalculatorApp1\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\CalculatorApp1\obj\Debug\CalculatorApp1.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\CalculatorApp1\obj\Debug\CalculatorApp1.pdb

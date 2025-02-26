@@ -1,0 +1,9 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\obj\Debug\DZ_ProgramSysteamFormsCS.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\obj\Debug\DZ_ProgramSysteamFormsCS.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\obj\Debug\DZ_ProgramSysteamFormsCS.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\obj\Debug\DZ_ProgramSysteamFormsCS.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\bin\Debug\DZ_ProgramSysteamFormsCS.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\bin\Debug\DZ_ProgramSysteamFormsCS.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\bin\Debug\DZ_ProgramSysteamFormsCS.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\obj\Debug\DZ_ProgramSysteamFormsCS.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DZ_ProgramSysteamFormsCS\obj\Debug\DZ_ProgramSysteamFormsCS.pdb

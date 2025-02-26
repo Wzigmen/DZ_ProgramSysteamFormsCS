@@ -1,0 +1,10 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\bin\Debug\BeepApp.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\bin\Debug\BeepApp.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\bin\Debug\BeepApp.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\obj\Debug\BeepApp.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\obj\Debug\BeepApp.Form1.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\obj\Debug\BeepApp.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\obj\Debug\BeepApp.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\obj\Debug\BeepApp.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\obj\Debug\BeepApp.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\BeepApp\obj\Debug\BeepApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\bin\Debug\ProcessLauncher.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\bin\Debug\ProcessLauncher.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\bin\Debug\ProcessLauncher.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\obj\Debug\ProcessLauncher.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\obj\Debug\ProcessLauncher.Form1.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\obj\Debug\ProcessLauncher.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\obj\Debug\ProcessLauncher.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\obj\Debug\ProcessLauncher.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\obj\Debug\ProcessLauncher.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\ProcessLauncher\obj\Debug\ProcessLauncher.pdb

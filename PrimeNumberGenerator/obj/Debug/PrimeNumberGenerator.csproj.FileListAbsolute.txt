@@ -1,0 +1,9 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.pdb

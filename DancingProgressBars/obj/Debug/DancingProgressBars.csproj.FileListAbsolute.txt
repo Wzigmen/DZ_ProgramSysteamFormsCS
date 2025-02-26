@@ -1,0 +1,10 @@
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\bin\Debug\DancingProgressBars.exe.config
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\bin\Debug\DancingProgressBars.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\bin\Debug\DancingProgressBars.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\obj\Debug\DancingProgressBars.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\obj\Debug\DancingProgressBars.Properties.Resources.resources
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\obj\Debug\DancingProgressBars.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\obj\Debug\DancingProgressBars.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\obj\Debug\DancingProgressBars.exe
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\obj\Debug\DancingProgressBars.pdb
+C:\Users\golub\source\repos\DZ_ProgramSysteamFormsCS\DancingProgressBars\obj\Debug\DancingProgressBars.Form1.resources
